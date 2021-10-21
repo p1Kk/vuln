@@ -4,7 +4,7 @@
 
 PRODUCT: TOTOLINK EX1200T V4.1.2cu.5215 (latest version)
 
-There is a remote command injection in the function `setDiagnosisCfg` of the file `lib/system.so` , we can control the`ipDoamin` to attack.
+There is a remote command injection in the function `setDiagnosisCfg` of the file `lib/cste_modules/system.so` , we can control the`ipDoamin` to attack.
 
 ![image-20211019161001641](https://cdn.jsdelivr.net/gh/p1Kk/blogImg/Pictureimage-20211019161001641.png)
 

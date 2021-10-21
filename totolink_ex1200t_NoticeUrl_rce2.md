@@ -4,7 +4,7 @@
 
 PRODUCT: TOTOLINK EX1200T V4.1.2cu.5215 (latest version)
 
-There is a remote command injection in the function `setNoticeCfg` of the file `lib/system.so` , we can control the`NoticeUrl` to attack.
+There is a remote command injection in the function `setNoticeCfg` of the file `lib/cste_modules/system.so` , we can control the`NoticeUrl` to attack.
 
 ![image-20211019162805076](https://cdn.jsdelivr.net/gh/p1Kk/blogImg/Pictureimage-20211019162805076.png)
 

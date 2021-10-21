@@ -4,7 +4,7 @@
 
 PRODUCT: TOTOLINK EX1200T V4.1.2cu.5215 (latest version)
 
-The function `RebootSystem` of the file `lib/system.so`  can reboot the system at will.
+The function `RebootSystem` of the file `lib/cste_modules/system.so`  can reboot the system at will.
 
 ![image-20211019163422031](https://cdn.jsdelivr.net/gh/p1Kk/blogImg/Pictureimage-20211019163422031.png)
 

@@ -6,7 +6,7 @@ PRODUCT: TOTOLINK EX1200T V4.1.2cu.5215 (latest version)
 
 There is a remote command injection in the function `setDeviceName` of the file `global.so` , we can control the`deviceName` to attack.
 
-![image-20211021181327210](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20211021181327210.png)
+![image-20211022163220190](https://cdn.jsdelivr.net/gh/p1Kk/blogImg/Pictureimage-20211022163220190.png)
 
 ## PoC
 

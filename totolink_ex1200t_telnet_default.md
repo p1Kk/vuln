@@ -25,7 +25,7 @@ If-Modified-Since: Thu, 01 Jan 1970 00:00:03 GMT
 Connection: close
 Content-Length: 68
 
-{"topicurl":"setTelnetCfg"，"telnet_enabled":"1"}
+{"topicurl":"setTelnetCfg","telnet_enabled":"1"}
 ```
 
 The default account password exists in the file `product.ini`：root:cs2012
